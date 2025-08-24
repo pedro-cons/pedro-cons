@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Constantino 👋
 
-I'm a Senior .NET Engineer with over 6 years of experience in **.NET**, **C#**, **Blazor**, **Angular**, and **AWS**. A **full-stack developer** specialized in delivering high-quality solutions across the full stack.
+Passionate AI Engineer with 9 years of combined academic and industry experience, building innovative, efficient, and scalable solutions. My career is driven by a strong technical foundation and a continuous pursuit of professional growth.
 
 ## 🌍 Let's Connect
 
