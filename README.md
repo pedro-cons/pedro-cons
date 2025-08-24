@@ -6,6 +6,7 @@ I'm a Senior .NET Engineer with over 6 years of experience in **.NET**, **C#**, 
 
 - [My Blog](https://pedrocons.com/)
 - [LinkedIn](https://www.linkedin.com/in/pedro-cons/)
+- [X](https://x.com/pedroconstech)
 
 Feel free to explore my repositories and get in touch for collaborations or tech discussions!
 
